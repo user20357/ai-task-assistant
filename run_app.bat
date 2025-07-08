@@ -1,0 +1,3 @@
+@echo off
+echo Starting AI Task Assistant with auto-start disabled...
+python main.py --no-auto-start
